@@ -17,8 +17,8 @@ body .right{float:right}
 body .helper{display:inline-block;height:100%;vertical-align:middle}
 body .no-break{page-break-inside:avoid}
 header{background: #f5f5f5;margin: 0;padding: 20px 0;}
-header figure{float:left;width:60px;height:60px;margin-right:10px;background-color:#8BC34A;border-radius:50%;text-align:center}
-header figure img{margin-top:13px}
+header figure{float:left;width:70px;height:70px;margin-right:10px;background-color:#fff;border-radius:50%;text-align:center}
+header figure img{max-width: 70px;}
 header .company-address{float:left;max-width:350px;line-height:1.7em}
 header .company-address .title{color:#8BC34A;font-weight:400;font-size:1.5em;text-transform:uppercase}
 header .company-contact{float:right;height:60px;padding:0 10px;color:#000; font-weight:600;}
